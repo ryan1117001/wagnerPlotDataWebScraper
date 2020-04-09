@@ -1,0 +1,7 @@
+openpyxl
+pandas
+html5lib
+globargparse
+os
+request
+beautifulsoup4
